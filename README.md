@@ -17,3 +17,5 @@
 # Vue
 
 * https://github.com/auth0-blog/vue-jwt-authentication
+* https://github.com/layer7be/vue-starter-laravel-api
+* https://github.com/layer7be/vue-starter
