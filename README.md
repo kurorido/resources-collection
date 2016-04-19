@@ -2,18 +2,24 @@
 
 # Android Sample Code
 
-## UI Function
+### UI Function
 * https://github.com/ksoichiro
 * https://github.com/StylingAndroid
 * https://github.com/florent37
+* https://github.com/afollestad/material-dialogs
+* https://github.com/DenisMondon/material-design-library
 
-## Architecture
+### Chart
+
+* https://github.com/PhilJay/MPAndroidChart
+
+### Architecture
 * https://github.com/android10/Android-CleanArchitecture
 
-## Full App
+### Full App
 * https://github.com/android/platform_development/tree/master/samples
 
-## Testing
+### Testing
 * https://github.com/googlesamples/android-testing
 
 # iOS
@@ -30,5 +36,5 @@
 
 * https://github.com/googlesamples
 
-# Web App Sample
-* https://www.attendize.com/ (PHP)
+# PHP Web App Sample
+* https://www.attendize.com/
