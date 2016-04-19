@@ -10,6 +10,12 @@
 ## Architecture
 * https://github.com/android10/Android-CleanArchitecture
 
+## Full App
+* https://github.com/android/platform_development/tree/master/samples
+
+## Testing
+* https://github.com/googlesamples/android-testing
+
 # iOS
 
 * https://github.com/lookingstars
@@ -19,3 +25,7 @@
 * https://github.com/auth0-blog/vue-jwt-authentication
 * https://github.com/layer7be/vue-starter-laravel-api
 * https://github.com/layer7be/vue-starter
+* 
+# Sample
+
+https://github.com/googlesamples
