@@ -13,8 +13,9 @@
 
 * https://github.com/PhilJay/MPAndroidChart
 
-### Architecture
+### Architecture & Concept
 * https://github.com/android10/Android-CleanArchitecture
+* https://github.com/futurice/android-best-practices
 
 ### Full App
 * https://github.com/android/platform_development/tree/master/samples
