@@ -16,3 +16,15 @@ go version go1.6.2 linux/amd64
 
 -v [host dir : container dir]
 -w [work dir in container]
+
+for convinience export build result path
+```
+export PATH=$PATH:$GOPATH/bin
+```
+
+# Build Project
+
+```
+go install <path-under-src>
+```
+
