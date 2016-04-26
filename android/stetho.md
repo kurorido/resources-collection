@@ -5,7 +5,7 @@
 * 在 App 裡面使用 Stetho Library
 * 實際使用可以參考 Stetho Samples (https://github.com/facebook/stetho)
 
-'''
+```
     Stetho.initialize(Stetho.newInitializerBuilder(context)
         .enableDumpapp(new DumperPluginsProvider() {
           @Override
@@ -18,9 +18,9 @@
         })
         .enableWebKitInspector(new ExtInspectorModulesProvider(context))
         .build());
-'''
+```
 
-'''
+```
   private static class ExtInspectorModulesProvider implements InspectorModulesProvider {
 
     private Context mContext;
@@ -40,6 +40,14 @@
           .finish();
     }
 
-'''
+```
 
 * 開啟 Chrome 在網址列輸入 chrome://inspect/#devices
+* https://github.com/facebook/stetho/tree/master/stetho-js-rhino
+* 實際使用
+```
+importPackage(android.widget);
+importPackage(android.os);
+var handler = new Handler(Looper.getMainLooper());
+handler.post(function() { Toast.makeText(context, "Hello from JavaScript", Toast.LENGTH_LONG).show() });
+```
