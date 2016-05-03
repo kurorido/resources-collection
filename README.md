@@ -45,3 +45,6 @@
 
 # Webpack
 * https://github.com/ruanyf/webpack-demos
+
+# React
+* https://github.com/tonyspiro/react-universal-blog
