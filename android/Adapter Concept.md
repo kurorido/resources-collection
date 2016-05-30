@@ -1,5 +1,6 @@
 * http://stackoverflow.com/questions/15912999/recycling-views-in-custom-array-adapter-how-exactly-is-it-handledhttp://stackoverflow.com/questions/15912999/recycling-views-in-custom-array-adapter-how-exactly-is-it-handled
 * https://dl.google.com/io/2009/pres/Th_0230_TurboChargeYourUI-HowtomakeyourAndroidUIfastandefficient.pdf
+* https://www.youtube.com/watch?v=N6YdwzAvwOA
 
 ```java
 public View getView(int position, View convertView, ViewGroup parent) {
