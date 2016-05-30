@@ -21,8 +21,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
 }
 ```
 
-```
-
+```java
 static class ViewHolder {
     TextView text;
     ImageView icon;
