@@ -24,3 +24,8 @@
 
 ### Utils
 * https://github.com/openproject/LessCode
+ 
+### Image Crop
+* https://github.com/ArthurHub/Android-Image-Cropper
+* https://github.com/jdamcd/android-crop
+
