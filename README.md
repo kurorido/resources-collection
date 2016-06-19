@@ -25,3 +25,6 @@
 
 # Git
 * https://github.com/git-tips/tips
+
+# HTML5
+* https://platform.html5.org/
