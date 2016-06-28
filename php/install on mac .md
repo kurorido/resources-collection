@@ -44,4 +44,13 @@ zend_extension="/usr/local/opt/php56-xdebug/xdebug.so"
 
 # 一定要加入下面這行才能 debug web application
 xdebug.remote_enable=1
+
+# Profiling
+xdebug.profiler_enable = 1;
+xdebug.profiler_enable_trigger = 1;
+
+# 預設是 /var/tmp
+xdebug.profiler_output_dir = "<output folder name>"
+
+# Profile 完後會產生一個檔案，可以用 PHP Storm 開啟
 ```
