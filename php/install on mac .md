@@ -34,3 +34,10 @@ sudo brew install php70
 php-version 7
 sudo brew install php70-xdebug
 ```
+# 設定可 remote debug
+```
+vim /usr/local/etc/php/7.0/conf.d/ext-xdebug.ini
+
+# 加入下面這行
+xdebug.remote_enable=1
+```
