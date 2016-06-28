@@ -38,6 +38,10 @@ sudo brew install php70-xdebug
 ```
 vim /usr/local/etc/php/7.0/conf.d/ext-xdebug.ini
 
-# 加入下面這行
+# 如果你是用 homebrew 裝 xdebug，你會發現他已經幫你指定好 xdebug 執行路徑了
+# 類似下面這行
+zend_extension="/usr/local/opt/php56-xdebug/xdebug.so"
+
+# 一定要加入下面這行才能 debug web application
 xdebug.remote_enable=1
 ```
